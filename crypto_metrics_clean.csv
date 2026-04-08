@@ -1,0 +1,6 @@
+crypto_name,annual_return_pct,risk_level_pct,return_risk_ratio,risk_category,performance_label,price_range_usd
+ETH,36.73,72.63,0.506,High Risk,Efficient,3357.87
+BNB,13.03,50.22,0.259,Medium Risk,Efficient,758.3100000000001
+SOL,-11.65,73.06,-0.159,High Risk,Inefficient,169.82
+XRP,-18.76,69.28,-0.271,High Risk,Inefficient,2.34
+BTC,-11.64,42.47,-0.274,Low Risk,Inefficient,61919.81999999999
